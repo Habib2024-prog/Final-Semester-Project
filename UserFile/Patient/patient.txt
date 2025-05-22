@@ -1,4 +1,5 @@
 P001|Habibullah|habibullahanoosha2019@gmail.com|0767877014|anwermohammadi809@gmail.com|1509494|22|Male
-P002|Faiq|faiq.ayoubi100@gmail.com|0676574|faiq.ayoubi100@gmail.com|1509492|25|Male
 P003|Asif Ali|asif@gmail.com|+92308767867|asif@gmail.com|93056192|22|Male
 P004|Mujghan|mu@gmail.com|+93435663455|mu@gmail.com|3295909|18|Female
+P005|Abdullah Gowhari|hashimis663@gmail.com|+93767877014|hashimis663@gmail.com|92549745|17|Male
+P006|habibAllah|habib@gmail.com|90807|habib@gmail.com|48690|33|Male

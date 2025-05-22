@@ -30,7 +30,7 @@ public class ReminderService {
         if (prescriptions.isEmpty()) return;
 
         for (Prescriptions p : prescriptions) {
-            // You can enhance this based on schedule time
+            // massage of Medication reminder
             String message="Reminder: Take " + p.getMedicationName() + " - " + p.getDosage() + " (" + p.getSchedule() + ")";
             emailNotifier.sendNotification(patient.getEmail(),"MedicationReminder",message);
         }
