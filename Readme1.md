@@ -147,33 +147,33 @@ Make sure your `pom.xml` contains the following:
 
 #### ✅ Admin can manage all system entities and generate reports.
 ### Login System
-![Patient Dashboard](Image/Login system.jpg)
+![Patient Dashboard](Image/Loginsystem.jpg)
 ### 🧑‍⚕️ Patient Dashboard
 ![Patient Dashboard](Image/patientDashbord.jpg)
 ### 📅 Appointment View
-![Patient Dashboard appointment](Image/app sec p.jpg)
+![Patient Dashboard appointment](Image/appsecp.jpg)
 ### 📹 Video Consultation
 ![Patient Dashboard video consultation](Image/vid%20sec%20p.jpg)
 ### 🚨 Emergency Alert Screen
-![Patient Dashboard](Image/emer p.jpg)
+![Patient Dashboard](Image/emerp.jpg)
 ### 🚨 Health trend view 
-![Patient Dashboard](Image/healt t p.jpg)
+![Patient Dashboard](Image/healttp.jpg)
 ### 💬 Real-Time Chat with Doctor
-![Patient Dashboard](Image/chat p.jpg)
+![Patient Dashboard](Image/chatp.jpg)
 ###  Doctor Dashboard
-![Patient Dashboard](Image/doctor dashboard.jpg)
+![Patient Dashboard](Image/doctordashboard.jpg)
 ###  Doctor Dashboard patient section
-![Patient Dashboard](Image/d p.jpg)
+![Patient Dashboard](Image/dp.jpg)
 ###  📹 Video Consultation Doctor Dashboard
-![Patient Dashboard](Image/vid d.jpg)
+![Patient Dashboard](Image/vidd.jpg)
 ### 💬 Real-Time Chat with patient
-![Patient Dashboard](Image/chat doc.jpg)
+![Patient Dashboard](Image/chatdoc.jpg)
 ### Admin Dashboard
-![Patient Dashboard](Image/admin dashboard.jpg)
+![Patient Dashboard](Image/admindashboard.jpg)
 ### Admin Dashboard Patient management
-![Patient Dashboard](Image/ad pm.jpg)
+![Patient Dashboard](Image/adpm.jpg)
 ### Admin Dashboard Assign Doctor to patient
-![Patient Dashboard](Image/ad assd.jpg)
+![Patient Dashboard](Image/adassd.jpg)
 ### Patient Report
 ![Patient Dashboard](Image/report.jpg)
 
