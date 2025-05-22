@@ -153,7 +153,7 @@ Make sure your `pom.xml` contains the following:
 ### 📅 Appointment View
 ![Patient Dashboard appointment](Image/appsecp.jpg)
 ### 📹 Video Consultation
-![Patient Dashboard video consultation](Image/vid%20sec%20p.jpg)
+![Patient Dashboard video consultation](Image/vidsecp.jpg)
 ### 🚨 Emergency Alert Screen
 ![Patient Dashboard](Image/emerp.jpg)
 ### 🚨 Health trend view 
